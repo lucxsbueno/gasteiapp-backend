@@ -22,7 +22,7 @@ public class EntryResource {
 
         list.add(cat1);
         list.add(cat2);
-        
+
         return list;
     }
 
